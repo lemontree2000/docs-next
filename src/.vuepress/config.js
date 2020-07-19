@@ -175,7 +175,7 @@ module.exports = {
     [
       'script',
       {
-        src: 'https://player.vimeo.com/api/player.js'
+        src: 'https://unpkg.com/@vimeo/player@2.12.2/dist/player.js'
       }
     ],
     [
